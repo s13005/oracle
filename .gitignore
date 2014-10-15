@@ -1,0 +1,6 @@
+*.swp
+*.sh
+/script
+setup.log
+afiedt.buf
+/instantclient_12_1/
