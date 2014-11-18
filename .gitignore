@@ -1,6 +1,12 @@
 *.swp
+<<<<<<< HEAD
 *.sh
 /script
 setup.log
 afiedt.buf
 /instantclient_12_1/
+=======
+*.class
+setup.log
+afiedt.buf
+>>>>>>> 2d7569f12c26a6b89ba2297d5a6ecd1c5d957ba3
